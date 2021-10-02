@@ -1,0 +1,26 @@
+body{
+  border: 0;
+  padding: 0;
+  background: lightgrey;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.img-card{
+  background:white;
+  border-top: 1px solid black;
+  border-radius: 3px;
+}
+
+.save{
+  height: 50px;
+  width: 40px;
+}
+.two{
+  border-top: 1px solid black;
+}
+.hr{
+  border-top: 2px solid black;
+}
+.header{
+  border: 2px dashed green;
+}
